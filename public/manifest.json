@@ -2084,7 +2084,7 @@
     "filename_ar": "تفسير القرطبي --- القرطبي، شمس الدين.epub",
     "coverText": "Adventure",
     "type": "epub",
-    "source": "url",
+    "source": "public/epubs/{filename_ar}",
     "category": "Exegesis"
   },
   {
